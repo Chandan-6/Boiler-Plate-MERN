@@ -6,28 +6,28 @@
         - assests
         - pages
         - utils
-    - pages folder contains an useFull inital syntax for writing a jsx file. _Saves time_
-    - utils contains the starting stage for creating data objects.
+    - pages folder contains an `useFull inital syntax` for writing a `jsx file`. _Saves time_
+    - utils contains the starting stage for creating `data objects`.
     - Added _BrowserRouter, Routes, Route_ for _navigating through multiple pages_ as required.
         - Import your page & apply your specified _endpoint_ as required.
-    - Installed _Tailwindcss_, now start working directly by applying your _styles_. 
+    - Installed `Tailwindcss`, now start working directly by applying your _styles_. 
     - Necessary Packages installed
-        - axios _For making HTTP requests from the client side._
-        - js-cookie _For handling cookies in JavaScript, By using this you can set cookies in header while sending a reqest._
-        - jwt-decode _For decoding JSON Web Tokens (JWT) on the client side._
-        - lucide-react _for excellent Clean Icons_ 
+        - `axios` _For making HTTP requests from the client side._
+        - `js-cookie` _For handling cookies in JavaScript, By using this you can set cookies in header while sending a reqest._
+        - `jwt-decode` _For decoding JSON Web Tokens (JWT) on the client side._
+        - `lucide-react` _for excellent Clean Icons_ 
             - [Docs](https://lucide.dev/icons/)
-        - react _core library for building user interfaces in React._
-        - react-router-dom _For adding routing functionality._
-        - react-hot-toast _For displaying toast notifications._
+        - `react` _core library for building user interfaces in React._
+        - `react-router-dom` _For adding routing functionality._
+        - `react-hot-toast` _For displaying toast notifications._
             - [Docs](https://react-hot-toast.com/)
 - ### Server side
-    - Contains ready to start server setup
-        - _Connection code_ to Database.
-        - _Authentication Middleware_.
-        - Sample _User Model_ Setup.
-        - Added well set up _routes_ for **Login, Signup, email-verification.**
-        - _Workable email sending code & otp generator code._
+    - ##Contains ready to start server setup
+        - `Connection code` to Database.
+        - `Authentication Middleware`.
+        - Sample `User Model` Setup.
+        - Added well set up `routes` for **Login, Signup, email-verification.**
+        - `Workable email sending code & otp generator code.`
         - Sample .env file
         - Ready setup for starting server, go to `index.js`
 
