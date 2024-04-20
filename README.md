@@ -32,13 +32,12 @@
         - Ready setup for starting server, go to `index.js`
 
 
-### Steps to get this _Repo_ to your local computer/repo.
-> [!TIP]
-> Download this repo (default :  zip file) from the above `<>code` _Button_
-> `npm install` in both folders `( client, server )` as both are executed at a time in _split terminal_.
-> Now you are get set ready to go 🧑‍💻. 
-> To run React App, make sure you are on the correct path in the terminal, run `npm start`
-> To run Server, ( in the split terminal ) run `nodemon index.js`
+# Steps to get this _Repo_ to your local computer/repo.
+- Download this repo (default :  zip file) from the above `<-code` _Button_
+- `npm install` in both folders `( client, server )` as both are executed at a time in _split terminal_.
+- Now you are get set ready to go 🧑‍💻. 
+- To run React App, make sure you are on the correct path in the terminal, run `npm start`
+- To run Server, ( in the split terminal ) run `nodemon index.js`
 
 # Hurray your are live 🎆
 
